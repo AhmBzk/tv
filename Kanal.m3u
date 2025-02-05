@@ -3,6 +3,10 @@
 #EXTINF:-1 tvg-id="ATV.tr" tvg-name="ATV",ATV
 https://trkvz-live.daioncdn.net/atv/atv.m3u8
 
+#EXTM3U
+#EXTINF:-1 tvg-id="ATV.tr" tvg-name="ATV" group-title="Ulusal",ATV
+https://www.atv.com.tr/canli-yayin
+
 #EXTINF:-1 tvg-id="ATVAvrupa.tr" tvg-name="ATV Avrupa",ATV Avrupa
 https://ythls.onrender.com/channel/UCUVZ7T_kwkxDOGFcDlFI-hg.m3u8
 
