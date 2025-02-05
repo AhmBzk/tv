@@ -1,0 +1,28 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="ATV.tr" tvg-name="ATV",ATV
+https://trkvz-live.daioncdn.net/atv/atv.m3u8
+
+#EXTINF:-1 tvg-id="ATVAvrupa.tr" tvg-name="ATV Avrupa",ATV Avrupa
+https://ythls.onrender.com/channel/UCUVZ7T_kwkxDOGFcDlFI-hg.m3u8
+
+#EXTINF:-1 tvg-id="CNNTurk.tr" tvg-name="CNN Türk",CNN Türk
+https://www.youtube.com/watch?v=VXMR3YQ7W3s
+
+#EXTINF:-1 tvg-id="ShowTV.tr" tvg-name="Show TV",Show TV
+https://mn-nl.mncdn.com/blutv_showtv/smil:show_sd.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TLC.tr" tvg-name="TLC",TLC
+https://www.youtube.com/watch?v=IMy6RvwMJLs
+
+#EXTINF:-1 tvg-id="HaberGlobal.tr" tvg-name="Haber Global",Haber Global
+https://tv.ensonhaber.com/tv/tr/haberglobal/index.m3u8
+
+#EXTINF:-1 tvg-id="NTV.tr" tvg-name="NTV",NTV
+https://nt4p9nef.rocketcdn.com/ntvhd.stream_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="KanalD.tr" tvg-name="Kanal D",Kanal D
+https://mn-nl.mncdn.com/blutv_kanald/smil:kanald_sd.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BeyazTV.tr" tvg-name="Beyaz TV",Beyaz TV
+https://mn-nl.mncdn.com/blutv_beyaztv/smil:beyaztv_sd.smil/playlist.m3u8
